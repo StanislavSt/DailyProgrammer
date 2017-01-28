@@ -1,0 +1,6 @@
+E:\DailyProgrammer\Challenge_50\Easy\StoreCredit_Solution\StoreCredit\bin\Debug\StoreCredit.exe.config
+E:\DailyProgrammer\Challenge_50\Easy\StoreCredit_Solution\StoreCredit\bin\Debug\StoreCredit.exe
+E:\DailyProgrammer\Challenge_50\Easy\StoreCredit_Solution\StoreCredit\bin\Debug\StoreCredit.pdb
+E:\DailyProgrammer\Challenge_50\Easy\StoreCredit_Solution\StoreCredit\obj\Debug\StoreCredit.csprojResolveAssemblyReference.cache
+E:\DailyProgrammer\Challenge_50\Easy\StoreCredit_Solution\StoreCredit\obj\Debug\StoreCredit.exe
+E:\DailyProgrammer\Challenge_50\Easy\StoreCredit_Solution\StoreCredit\obj\Debug\StoreCredit.pdb
