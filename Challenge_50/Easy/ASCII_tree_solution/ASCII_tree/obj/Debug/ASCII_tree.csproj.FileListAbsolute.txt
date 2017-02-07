@@ -1,6 +1,0 @@
-E:\DailyProgrammer\Challenge_50\Easy\ASCII_tree_solution\ASCII_tree\bin\Debug\ASCII_tree.exe.config
-E:\DailyProgrammer\Challenge_50\Easy\ASCII_tree_solution\ASCII_tree\obj\Debug\ASCII_tree.csprojResolveAssemblyReference.cache
-E:\DailyProgrammer\Challenge_50\Easy\ASCII_tree_solution\ASCII_tree\bin\Debug\ASCII_tree.exe
-E:\DailyProgrammer\Challenge_50\Easy\ASCII_tree_solution\ASCII_tree\bin\Debug\ASCII_tree.pdb
-E:\DailyProgrammer\Challenge_50\Easy\ASCII_tree_solution\ASCII_tree\obj\Debug\ASCII_tree.exe
-E:\DailyProgrammer\Challenge_50\Easy\ASCII_tree_solution\ASCII_tree\obj\Debug\ASCII_tree.pdb
