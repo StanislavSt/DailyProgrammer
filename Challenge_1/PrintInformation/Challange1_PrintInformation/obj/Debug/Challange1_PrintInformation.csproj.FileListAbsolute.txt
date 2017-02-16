@@ -1,6 +1,0 @@
-E:\DailyProgrammer\Challange_1\PrintInformation\Challange1_PrintInformation\bin\Debug\Challange1_PrintInformation.exe.config
-E:\DailyProgrammer\Challange_1\PrintInformation\Challange1_PrintInformation\bin\Debug\Challange1_PrintInformation.exe
-E:\DailyProgrammer\Challange_1\PrintInformation\Challange1_PrintInformation\bin\Debug\Challange1_PrintInformation.pdb
-E:\DailyProgrammer\Challange_1\PrintInformation\Challange1_PrintInformation\obj\Debug\Challange1_PrintInformation.csprojResolveAssemblyReference.cache
-E:\DailyProgrammer\Challange_1\PrintInformation\Challange1_PrintInformation\obj\Debug\Challange1_PrintInformation.exe
-E:\DailyProgrammer\Challange_1\PrintInformation\Challange1_PrintInformation\obj\Debug\Challange1_PrintInformation.pdb
